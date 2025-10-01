@@ -1,0 +1,14 @@
+img {
+    display: block;
+    max-width: 30%;
+    height: auto;
+}
+
+.card img{
+    display: block;
+   width: 100px;
+   height: 100px;
+   background-color: rgb(246, 245, 241);
+   padding: 10px;
+   border-radius: 10%;
+}
